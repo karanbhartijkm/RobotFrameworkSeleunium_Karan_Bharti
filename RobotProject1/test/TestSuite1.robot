@@ -20,7 +20,10 @@ MySecondTestCase
     Remove Tags    regreesion1    
     
 MyThirdTestCase
-    Log    I am inside 3rd Test    
+    Log    I am inside 3rd Test
+    
+yFourthTestCase
+    Log    I am inside 4th Test      
     
 # FirstSeleniumTestCase
       # Open Browser    https:google.com    chrome
